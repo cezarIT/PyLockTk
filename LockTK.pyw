@@ -1,5 +1,5 @@
 #\/\/Окно ввода пороля на модуле Tkinter на языке Python/\/\#
-from  import *
+from Tkinter import *
 #
 window = Tk()
 window.geometry('150x110+500+300')
